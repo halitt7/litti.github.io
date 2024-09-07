@@ -10,7 +10,7 @@
 <body>
     <div class="wrapper">
         <h2 class="question">Do you love me?</h2>
-        <img class="gif" alt="https://media.giphy.com/media/auGFCmg6rM0eI/giphy.gif?cid=ecf05e47cllst6nkm0zawr9fuqaemc2vlcyie6kqrv0wwn51&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+        <img class=["https://media.giphy.com/media/auGFCmg6rM0eI/giphy.gif?cid=ecf05e47cllst6nkm0zawr9fuqaemc2vlcyie6kqrv0wwn51&ep=v1_gifs_related&rid=giphy.gif&ct=g
         <div class="btn-group">
             <button class="yes-btn">Yes</button>
             <button class="no-btn">No</button>
