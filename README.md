@@ -10,7 +10,7 @@
 <body>
     <div class="wrapper">
         <h2 class="question">Do you love me?</h2>
-        <img class=["<iframe src="https://giphy.com/embed/auGFCmg6rM0eI" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-auGFCmg6rM0eI">via GIPHY</a></p>">
+        <img class=["https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YyMTNkNnUxdXVtajR1cjZ2bGlleGd5ajR3dXFtd3NqczY3eGU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/auGFCmg6rM0eI/giphy.gif">
             <button class="yes-btn">Yes</button>
             <button class="no-btn">No</button>
         </div>
@@ -30,7 +30,7 @@ const gif = document.querySelector(".gif");
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "You got Rickrolled 😘 (FOLLOW ME @kristel_tech or 7 years bad luck)";
-  gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1cW5wMWhpaDF5b3pjdTF0OHZrcHJvaGkzOHJteDhmd245OGRnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vuw9m5wXviFIQ/giphy.gif";
+  gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YyMTNkNnUxdXVtajR1cjZ2bGlleGd5ajR3dXFtd3NqczY3eGU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/auGFCmg6rM0eI/giphy.gif";
 });
 
 // Make the No button move randomly on hover
