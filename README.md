@@ -10,8 +10,7 @@
 <body>
     <div class="wrapper">
         <h2 class="question">Do you love me?</h2>
-        <img class=["https://media.giphy.com/media/auGFCmg6rM0eI/giphy.gif?cid=ecf05e47cllst6nkm0zawr9fuqaemc2vlcyie6kqrv0wwn51&ep=v1_gifs_related&rid=giphy.gif&ct=g
-        <div class="btn-group">
+        <img class=["<iframe src="https://giphy.com/embed/auGFCmg6rM0eI" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/love-auGFCmg6rM0eI">via GIPHY</a></p>">
             <button class="yes-btn">Yes</button>
             <button class="no-btn">No</button>
         </div>
