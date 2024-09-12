@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "TA PUNOVA  😘";
+  question.innerHTML = "TA PUNOVA 😘";
   gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YyMTNkNnUxdXVtajR1cjZ2bGlleGd5ajR3dXFtd3NqczY3eGU0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/auGFCmg6rM0eI/giphy.gif";
 });
 
